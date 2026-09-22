@@ -5,6 +5,8 @@
 
 jadi barisan kode diatas ini tugasnya yaitu mendefinisikan function dengan dua parameter, juga menentukan tarif parkir yang dihitung per jam berdasarkan jenis kendaraan lewat percabangan if/elif/else, lalu menghitung dan return ke total biaya.
 
+untuk .lower disini saya pakai agar saat input jenis kendaraan, tidak perlu memerhatikan kapital pada huruf, jadi meminimalisir error saat menjalankan program.
+
 <img width="227" height="62" alt="Screenshot 2026-09-22 221049" src="https://github.com/user-attachments/assets/699163c6-fbef-4efc-8aeb-f07e15914fa8" />
 <img width="220" height="68" alt="Screenshot 2026-09-22 220108" src="https://github.com/user-attachments/assets/7c638064-fdc7-4e14-9180-d392804881d7" />
 
